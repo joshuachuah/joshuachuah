@@ -2,12 +2,17 @@
 
 
 ## Languages
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="15"/> JavaScript
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="15"/> Python
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="15"/> Java
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30" height="15"/> React
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30" height="15"/> HTML5
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="30" height="15"/> CSS3
+
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)
+![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+
+
+
 <!--
 **joshuachuah/joshuachuah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
