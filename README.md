@@ -65,12 +65,6 @@ I’m open to exploring new projects and connecting with others in the field. Dr
 
 
 
-![iu-wave (1)](https://github.com/user-attachments/assets/7ecf711c-86ba-4419-95da-bacb02613a83)
-
-
-
-
-
 
 
 
