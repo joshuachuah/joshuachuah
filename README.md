@@ -6,10 +6,10 @@
 - 🇫🇷 Bonjour
 - 🇩🇪 Hallo
 - 🇮🇹 Ciao
-- 🇨🇳 你好 (Nǐ hǎo)
-- 🇯🇵 こんにちは (Konnichiwa)
-- 🇰🇷 안녕하세요 (Annyeonghaseyo)
-- 🇸🇦 مرحبا (Marhaban)
+- 🇨🇳 你好
+- 🇯🇵 こんにちは
+- 🇰🇷 안녕하세요
+- 🇸🇦 مرحبا
 - 🇷🇺 Здравствуйте
 
 
