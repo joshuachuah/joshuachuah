@@ -43,14 +43,12 @@ I’m open to exploring new projects and connecting with others in the field. Dr
 
 ## 🙏 Thank You for Visiting!
 
-![Thank You](https://media.tenor.com/images/3c22db0a493e01c25017848502e64c7f/tenor.gif)
 
 
 
 
+![iu-wave (1)](https://github.com/user-attachments/assets/7ecf711c-86ba-4419-95da-bacb02613a83)
 
-
- 
 
 
 
