@@ -34,9 +34,29 @@
 | Web Development      | 🌐   |
 | Sports               | ⚽   |
                           
+## 🤝 Let's Connect!
 
-## Connect with me
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+I’m open to exploring new projects and connecting with others in the field. Drop me a message!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-chuah-916a15259/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chuahjoshua00@gmail.com)
+
+## 🙏 Thank You for Visiting!
+
+![Thank You](https://media.tenor.com/images/3c22db0a493e01c25017848502e64c7f/tenor.gif)
+
+
+
+
+
+
+ 
+
+
+
+
+
+
 
 
 
