@@ -50,6 +50,7 @@
 | Software Development | 🛠️   |
 | Web Development      | 🌐   |
 | Sports               | ⚽   |
+| Embedded Software    |      |
  
 ## 🤝 Let's Connect!
 
