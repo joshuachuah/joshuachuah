@@ -28,12 +28,12 @@
 | Interest             | Icon |
 |----------------------|------|
 | Machine Learning     | 🤖   |
-| Artificial Intelligence | 🧠 |
+| Artificial Intelligence | 🧠 |                                        
 | CyberSecurity        | 💻   |
 | Software Development | 🛠️   |
 | Web Development      | 🌐   |
 | Sports               | ⚽   |
-                          
+ 
 ## 🤝 Let's Connect!
 
 I’m open to exploring new projects and connecting with others in the field. Drop me a message!
