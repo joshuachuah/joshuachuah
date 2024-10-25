@@ -18,7 +18,22 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF5C00?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-007C4D?style=for-the-badge&logo=metasploit&logoColor=white)
 
+## Interests
+
+
+
+| Interest             | Icon |
+|----------------------|------|
+| Machine Learning     | 🤖   |
+| Artificial Intelligence | 🧠 |
+| CyberSecurity        | 💻   |
+| Software Development | 🛠️   |
+| Web Development      | 🌐   |
+| Sports               | ⚽   |
+                          
 
 ## Connect with me
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
