@@ -1,17 +1,5 @@
 ## Hello 👋 I'm Joshua
 
-### Greetings:
-- 🇺🇸 Hello
-- 🇪🇸 Hola
-- 🇫🇷 Bonjour
-- 🇩🇪 Hallo
-- 🇮🇹 Ciao
-- 🇨🇳 你好
-- 🇯🇵 こんにちは
-- 🇰🇷 안녕하세요
-- 🇸🇦 مرحبا
-- 🇷🇺 Здравствуйте
-
 
 ## Languages
 
