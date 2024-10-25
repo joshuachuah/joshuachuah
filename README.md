@@ -1,4 +1,16 @@
-## Hi 👋 I'm Joshua Chuah
+## Hello 👋 I'm Joshua
+
+### Greetings:
+- 🇺🇸 Hello
+- 🇪🇸 Hola
+- 🇫🇷 Bonjour
+- 🇩🇪 Hallo
+- 🇮🇹 Ciao
+- 🇨🇳 你好 (Nǐ hǎo)
+- 🇯🇵 こんにちは (Konnichiwa)
+- 🇰🇷 안녕하세요 (Annyeonghaseyo)
+- 🇸🇦 مرحبا (Marhaban)
+- 🇷🇺 Здравствуйте
 
 
 ## Languages
