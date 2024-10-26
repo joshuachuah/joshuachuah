@@ -1,5 +1,14 @@
-## Hello 👋 I'm Joshua
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DE75F7&width=435&lines=Hello+%F0%9F%91%8B+%2C+I'm+Joshua+Chuah)](https://git.io/typing-svg)
 
+## ✨ A Little Bit About Me ✨
+
+- 🎓 I'm a recent Computer Science graduate.
+- 💻 Passionate about creating interactive and user-friendly applications.
+- 🌱 Currently learning more about cloud computing and full-stack development.
+- 🎯 Goal: To contribute to open-source projects and expand my skills.
+- 🔒 Fun fact: During my free time, I like to learn more about cybersecurity
+
+> *"Strive not to be a success, but rather to be of value."* — Albert Einstein
 
 ## Languages
 
@@ -37,8 +46,9 @@
 | CyberSecurity        | 💻   |
 | Software Development | 🛠️   |
 | Web Development      | 🌐   |
+| Embedded Software    |  📟  |
+| Cloud Computing       | ☁️   |
 | Sports               | ⚽   |
-| Embedded Software    |      |
  
 ## 🤝 Let's Connect!
 
