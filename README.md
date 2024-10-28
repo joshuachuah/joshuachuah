@@ -6,7 +6,7 @@
 - 💻 Passionate about creating interactive and user-friendly applications.
 - 🌱 Currently learning more about cloud computing and full-stack development.
 - 🎯 Goal: To contribute to open-source projects and expand my skills.
-- 🔒 Fun fact: During my free time, I like to learn more about cybersecurity
+- 🔒 Fun fact: In my free time, I enjoy diving into cybersecurity and tackling CTF challenges.
 
 > *"Strive not to be a success, but rather to be of value."* — Albert Einstein
 
