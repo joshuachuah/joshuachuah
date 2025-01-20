@@ -49,7 +49,7 @@
 | Software Development | 🛠️   |
 | Web Development      | 🌐   |
 | Embedded Software    |  📟  |
-| Cloud Computing       | ☁️   |
+| Cloud Computing      | ☁️   |
  
 ## 🤝 Let's Connect!
 
