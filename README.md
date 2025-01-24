@@ -43,9 +43,9 @@
 
 | Interest             | Icon |
 |----------------------|------|
-| Machine Learning     | 🤖   |
+| Cybersecurity    | 💻   |
 | Artificial Intelligence | 🧠 |                                        
-| CyberSecurity        | 💻   |
+| Machine Learning        | 🤖  |
 | Software Development | 🛠️   |
 | Web Development      | 🌐   |
 | Embedded Software    |  📟  |
