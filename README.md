@@ -48,8 +48,6 @@
 | Machine Learning        | 🤖  |
 | Software Development | 🛠️   |
 | Web Development      | 🌐   |
-| Embedded Software    |  📟  |
-| Cloud Computing      | ☁️   |
  
 ## 🤝 Let's Connect!
 
