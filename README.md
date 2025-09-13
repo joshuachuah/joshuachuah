@@ -38,8 +38,6 @@
 
 ## Interests
 
-
-
 | Interest             | Icon |
 |----------------------|------|
 | Cybersecurity    | 💻   |
