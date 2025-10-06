@@ -2,9 +2,9 @@
 
 ## ✨ A Little Bit About Me ✨
 
-- 🎓 I'm a recent Computer Science graduate.
+- 🎓 I'm a Computer Science graduate.
 - 💻 Passionate about creating interactive and user-friendly applications.
-- 🌱 Currently learning more about Spring Boot and Cybersecurity.
+- 🌱 Currently interested and learning more about Cybersecurity.
 - 🎯 Goal: To contribute to open-source projects and expand my skills.
 - 🔒 Fun fact: In my free time, I enjoy diving into cybersecurity and tackling CTF challenges.
 
