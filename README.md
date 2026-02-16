@@ -10,6 +10,9 @@
 
 > *"Strive not to be a success, but rather to be of value."* — Albert Einstein
 
+## Projects
+-  **[PromptPool](https://promptpool.co)** - Craft and share your AI prompts
+
 ## Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
