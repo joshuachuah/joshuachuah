@@ -11,7 +11,7 @@
 > *"Strive not to be a success, but rather to be of value."* — Albert Einstein
 
 ## Current Projects
-- ✈️ **[FlightCLI](https://github.com/joshuachuah/FlightCLI)** - Track live flights and view airport departures/arrivals from your terminal
+- 🛫 **[FlightCLI](https://github.com/joshuachuah/FlightCLI)** - Track live flights and view airport departures/arrivals from your terminal
 - 📝 **[PromptPool](https://promptpool.co)** - Craft and share your AI prompts
 
 ## Languages
