@@ -26,7 +26,6 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-
 ## Technologies & Frameworks
 ![React](https://img.shields.io/badge/React-0078D7?style=for-the-badge&logo=react&logoColor=white&labelColor=0078D7)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -39,16 +38,6 @@
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
-
-## Interests
-
-| Interest             | Icon |
-|----------------------|------|
-| Cybersecurity    | 💻   |
-| Artificial Intelligence | 🧠 |                                        
-| Machine Learning        | 🤖  |
-| Software Development | 🛠️   |
-| Web Development      | 🌐   |
  
 ## 🤝 Let's Connect!
 
