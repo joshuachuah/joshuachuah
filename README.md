@@ -7,7 +7,6 @@
 - 🌱 Currently interested and learning more about Cybersecurity.
 - 🎯 Goal: To contribute to open-source projects and expand my skills.
 
-
 ## Current Projects
 - 🛫 **[FlightCLI](https://github.com/joshuachuah/FlightCLI)** - Track live flights and view airport departures/arrivals from your terminal
 
