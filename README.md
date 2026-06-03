@@ -1,12 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DE75F7&width=435&lines=Hello+%F0%9F%91%8B++I'm+Joshua+Chuah)](https://git.io/typing-svg)
 
-## ✨ A Little Bit About Me ✨
-
-- 🎓 I'm a Computer Science graduate.
-- 💻 Passionate about creating interactive and user-friendly applications.
-- 🌱 Currently interested and learning more about Cybersecurity.
-- 🎯 Goal: To contribute to open-source projects and expand my skills.
-
 ## Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
