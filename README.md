@@ -28,7 +28,7 @@
 
 ## 🤝 Let's Connect!
 
-I’m open to exploring new projects and connecting with others in the field. Drop me a message!
+I’m open to collaborating and working together. Drop me a message!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-chuah00/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jchuah07@gmail.com)
